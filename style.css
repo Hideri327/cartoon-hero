@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   background-color: #fcb449;
+}
+
+header{
+    background-color: #ff9900;
+     text-align: center;
+}
+h1, h2{
+    font-family: 'Bangers', cursive;
+    background-color: orangered
+}
+
+header h1{
+    color: black;
+    background-color: red;
+    font-size: 100px;       
+}
+
+header img{
+    border-radius: 200px;
+    width: 500px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+main{
+    max-width: 800px;
+}
